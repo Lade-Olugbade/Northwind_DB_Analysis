@@ -1,7 +1,3 @@
-Sure thing! Here's a structured README for your repository:
-
----
-
 # Northwind Database SQL Queries
 
 This repository contains SQL queries designed to extract specific and necessary information from the Northwind database. The queries are structured around various tables within the database, including categories, employees, customers, orders, order details, shippers, regions, products, suppliers, territories, and more.
@@ -39,6 +35,4 @@ Contributions to this repository are welcome. If you have additional SQL queries
 
 This repository is licensed under the [MIT License](LICENSE).
 
----
 
-Feel free to tweak or expand upon this README as needed!
